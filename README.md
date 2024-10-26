@@ -20,8 +20,7 @@
 ---
 
 ### 🛠️ Notable Projects
-- **python-weather:** [(https://github.com/Hamadabcn/python-weather.git)] | [Live Demo](https://python-weather-hjoc.onrender.com/) - An application to get the temperatures of cities written in Python, HTML, and CSS, deployed on Render.
-
+- **python-weather:** [GitHub Repository](https://github.com/Hamadabcn/python-weather.git) | [Live Demo](https://python-weather-hjoc.onrender.com/) - An application to get the temperatures of cities written in Python, HTML, and CSS, deployed on Render.
 
 ---
 
