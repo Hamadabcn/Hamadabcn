@@ -11,7 +11,7 @@
 - **Passionate about:** Technology, programming, and discovering the latest innovations.
 - **Currently Learning:** Python, machine learning, and application development to power up my skills!
 - **Excited to Collaborate:** I love contributing to open-source projects and joining interesting tech initiatives.
-- **When I'm not coding, you can find me exploring new coffee shops or hiking in nature!**
+- **When I'm not coding, you can find me exploring local coffee shops!**
 
 ### 🚀 Let's Connect!
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hamadabcn)
