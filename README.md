@@ -27,10 +27,3 @@ I’ve experimented with a bunch of programming languages — I’ve got my own 
 📈 GitHub Stats
 
 Thanks for stopping by! Let’s create something amazing together. 🌍👨‍💻
-
-
-### Key Features Added
-1. **Badges**: Profile views, GitHub followers, and contact badges for a professional touch.
-2. **Code Snippet**: A Python snippet that shows your focus on Python.
-3. **GitHub Stats**: These visual stats make your profile more engaging and highlight your activity.
-4. **Section Dividers**: Adds a clean, organized look.
