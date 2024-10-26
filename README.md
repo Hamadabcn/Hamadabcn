@@ -5,7 +5,6 @@
 ![Hamadabcn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamadabcn&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamadabcn&layout=compact&theme=radical)
 
-
 ---
 
 ### 👀 About Me
@@ -23,6 +22,7 @@
 ```python
 # Python enthusiast diving into machine learning
 print("Creating cool projects and exploring new tech daily!")
+
 ````
 
 ### ⚡Fun Fact:
