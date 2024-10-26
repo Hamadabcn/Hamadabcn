@@ -1,8 +1,36 @@
+# 👋 Hey there, I'm Hamadabcn! 
 
-👋 Hi, I’m @Hamadabcn
-👀 I’m interested in technology, programming, and exploring new innovations.
-🌱 I’m currently learning developing applications using Python language and machine learning to broaden my skill set.
-💞️ I’m looking to collaborate on open-source projects and interesting tech initiatives.
-📫 How to reach me: You can send me a message on GitHub or reach out to me via email at [mohbcn1@hotmail.com].
-😄 Pronouns: He/Him
-⚡ Fun fact: I love experimenting with new coding languages and have a growing collection of programming languages I've dabbled in!
+![Profile Views](https://komarev.com/ghpvc/?username=Hamadabcn&color=blue)  
+![GitHub Followers](https://img.shields.io/github/followers/Hamadabcn?label=Follow&style=social)
+
+---
+
+### 👀 About Me
+- **Passionate about:** Technology, programming, and discovering the latest innovations.
+- **Currently Learning:** Python, machine learning, and application development to power up my skills!
+- **Excited to Collaborate:** I love contributing to open-source projects and joining interesting tech initiatives.
+
+### 🚀 Let's Connect!
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hamadabcn)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohbcn1@hotmail.com)
+
+---
+
+### 🌱 What I’m Working On:
+```python
+# Python enthusiast diving into machine learning
+print("Creating cool projects and exploring new tech daily!")
+
+⚡ Fun Fact:
+I’ve experimented with a bunch of programming languages — I’ve got my own “coding toolkit” ready for whatever comes next!
+
+📈 GitHub Stats
+
+Thanks for stopping by! Let’s create something amazing together. 🌍👨‍💻
+
+
+### Key Features Added
+1. **Badges**: Profile views, GitHub followers, and contact badges for a professional touch.
+2. **Code Snippet**: A Python snippet that shows your focus on Python.
+3. **GitHub Stats**: These visual stats make your profile more engaging and highlight your activity.
+4. **Section Dividers**: Adds a clean, organized look.
