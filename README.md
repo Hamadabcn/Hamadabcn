@@ -2,6 +2,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Hamadabcn&color=blue)  
 ![GitHub Followers](https://img.shields.io/github/followers/Hamadabcn?label=Follow&style=social)
+![Hamadabcn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamadabcn&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamadabcn&layout=compact&theme=radical)
+
 
 ---
 
