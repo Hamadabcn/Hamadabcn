@@ -21,7 +21,7 @@
 # Python enthusiast diving into machine learning
 print("Creating cool projects and exploring new tech daily!")
 ````
-###⚡ Fun Fact:
+### 📈 ⚡Fun Fact:
 I’ve experimented with a bunch of programming languages — I’ve got my own “coding toolkit” ready for whatever comes next!
 
 ### 📈 GitHub Stats
